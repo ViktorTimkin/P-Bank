@@ -1,1 +1,9 @@
-
+spring:
+  application:
+    name: account-app
+  profiles:
+    active: local
+eureka:
+  client:
+    service-url:
+      default_Zone: http://localhost:8761/eureka/

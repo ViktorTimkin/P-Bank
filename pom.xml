@@ -19,6 +19,7 @@
 
     <modules>
         <module>account</module>
+        <module>server</module>
     </modules>
 
     <properties>
